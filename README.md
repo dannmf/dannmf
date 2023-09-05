@@ -1,6 +1,9 @@
 ### Olá! Eu sou o Daniel Manoel 👋
 Tenho 20 anos, sou estudante de Analise e Desenvolvimento de Sistemas na Faculdade de Tecnologia (FATEC) e desenvolvedor mobile com foco em Flutter.
 
+[![Dannmf GitHub stats](https://github-readme-stats.vercel.app/api?username=dannmf&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Tecnologias que uso no meu dia
 <div style ="display: inline_block"></br>
