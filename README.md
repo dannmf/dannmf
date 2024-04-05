@@ -27,7 +27,7 @@ I'm 20 years old, graduated in Systems Analysis and Development from the College
 
 ## 📱 Contact
 <div>
-<a href="mailto:daniellfmanoel@gmail.com"> <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   - <b>daniellfmanoel@gmail.com</b>
 </div>
 
