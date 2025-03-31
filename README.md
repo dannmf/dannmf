@@ -1,6 +1,6 @@
 
 # <Hello! I'm Daniel Manoel 👋/>
-I'm 21 years old, graduated in Systems Analysis and Development from the College of Technology (FATEC) currently developing with Flutter & Dart.
+I'm 21 years old, graduated in Systems Analysis and Development from the College of Technology (FATEC) currently teaching Systems Development at SENAI.
 
 
 ## ⚡ Technologies
