@@ -40,7 +40,7 @@ I'm a 21-year-old developer, passionate about building applications that solve r
 
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dannmf&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dannmf&theme=radical)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dannmf&theme=radical)
 
 
 
