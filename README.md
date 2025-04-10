@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00F719&width=435&lines=Hello!+I'm+Daniel+Manoel+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=10F700&width=435&lines=Hello!+I'm+Daniel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm a 21-year-old developer, passionate about building applications that solve real-world problems. I hold a degree in Systems Analysis and Development from FATEC and currently work as a Systems Development instructor at SENAI. I love learning new technologies, teaching, and sharing knowledge with the tech community.
 
