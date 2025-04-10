@@ -1,4 +1,4 @@
-# Hello! I'm Daniel Manoel 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00F719&width=435&lines=Hello!+I'm+Daniel+Manoel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm a 21-year-old developer, passionate about building applications that solve real-world problems. I hold a degree in Systems Analysis and Development from FATEC and currently work as a Systems Development instructor at SENAI. I love learning new technologies, teaching, and sharing knowledge with the tech community.
 
@@ -26,11 +26,6 @@ I'm a 21-year-old developer, passionate about building applications that solve r
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📬 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniellfmanoel@gmail.com)
-**daniellfmanoel@gmail.com**
-
 ## 🌐 Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannmf/)
@@ -46,9 +41,12 @@ I'm a 21-year-old developer, passionate about building applications that solve r
 
 
 
+
+
 ---
 
-<!-- Optional: Add animated snake contribution (just for style) -->
+
+
 <div align="center">
   <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
