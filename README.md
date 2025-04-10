@@ -4,7 +4,6 @@ I'm a 21-year-old developer passionate about building applications that solve re
 Graduated in Systems Analysis and Development (FATEC), currently working as a Systems Development instructor at SENAI.  
 I enjoy learning new technologies, teaching, and sharing knowledge with the tech community.
 
----
 
 ## ⚙️ Skills
 
@@ -30,14 +29,12 @@ I enjoy learning new technologies, teaching, and sharing knowledge with the tech
 ### Database  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
----
 
 ## 🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannmf/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dannmf.exe/)
 
----
 
 ## 📊 GitHub Highlights
 
