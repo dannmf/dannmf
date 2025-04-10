@@ -38,5 +38,7 @@ I enjoy learning new technologies, teaching, and sharing knowledge with the tech
 
 ## 📊 GitHub Highlights
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dannmf&show_icons=true&theme=radical&hide_border=true&icon_color=10F700)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=dannmf&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=dannmf&show_icons=true&theme=radical&hide_border=true&icon_color=10F700&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=dannmf&theme=radical&hide_border=true&count_private=true)
+
+
