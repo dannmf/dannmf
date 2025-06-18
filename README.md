@@ -14,17 +14,11 @@ I enjoy learning new technologies, teaching, and sharing knowledge with the tech
 </div>
 
 
-
-
 ### Find Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannmf/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dannmf.exe/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dannmf/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dannmf.exe/)
 
-
-### GitHub Highlights
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dannmf&show_icons=true&theme=radical&hide_border=true&icon_color=10F700&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=dannmf&theme=radical&hide_border=true&count_private=true)
 
 
