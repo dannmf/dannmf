@@ -15,12 +15,6 @@ I enjoy learning new technologies, teaching, and sharing knowledge with the tech
 
 </div>
 
-
-### Find Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dannmf/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dannmf.exe/)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=dannmf&theme=radical&hide_border=true&count_private=true)
 
 
