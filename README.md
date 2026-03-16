@@ -16,7 +16,7 @@ I enjoy learning new technologies, teaching, and sharing knowledge with the tech
 </div>
 
 <div align="flex-start">
-  <a href="https://www.youtube.com/watch?v=dAgY7zUqd8E"><img src="https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=0hEYvdMoF2g&list=RD0hEYvdMoF2g&start_radio=1&theme=terminal" alt="SoundBadge" /></a>
+  <a href="https://www.youtube.com/watch?v=0hEYvdMoF2g&list=RD0hEYvdMoF2g&start_radio=1"><img src="https://sound-badge.vercel.app/api/card.svg?url=https://www.youtube.com/watch?v=0hEYvdMoF2g&list=RD0hEYvdMoF2g&start_radio=1&theme=terminal" alt="SoundBadge" /></a>
 </div>
 
 
