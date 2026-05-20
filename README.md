@@ -1,8 +1,6 @@
 ### 👋 Hello! I'm Daniel
 
-I'm a 22 year old developer passionate about building applications that solve real-world problems.  
-Graduated in Systems Analysis and Development (FATEC), currently working as a Systems Development instructor at SENAI.  
-I enjoy learning new technologies, teaching, and sharing knowledge with the tech community.
+Full Stack Developer & Systems Development Instructor at SENAI. I build developer tools and teach software development courses. Graduated in Systems Analysis and Development from FATEC.
 
 ### Technologies
 
