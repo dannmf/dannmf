@@ -1,0 +1,34 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Role", "value": "Full Stack Dev & Instructor" },
+        { "key": "Company", "value": "SENAI" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Website", "value": "dannmf.dev" },
+        { "key": "GitHub", "value": "https://github.com/{{username}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      "loc"
+    ]
+  }
+}
