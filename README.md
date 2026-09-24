@@ -8,8 +8,8 @@ Full Stack Developer & Systems Development Instructor at SENAI. I build develope
 
 <img src="https://skillicons.dev/icons?i=dart,js,ts,py,html,css,tailwind,bootstrap" height="40" /><br>
 <img src="https://skillicons.dev/icons?i=vue,flutter,nodejs,express,prisma,postgres,mysql,sqlite" height="40" /><br>
-<img src="https://skillicons.dev/icons?i=postman,docker,cypress,vite,pinia,md,notion,figma" height="40" /><br>
-<img src="https://skillicons.dev/icons?i=linux" height="40" />
+<img src="https://skillicons.dev/icons?i=postman,docker,cypress,vite,pinia,react,linux,git" height="40" /><br>
+
 
 </div>
 
